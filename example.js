@@ -7,6 +7,13 @@ const teresa = {
     brothers: false
 }
 
+const ali = {
+    role: "student"
+    profession: "programmer"
+    interests: "bussiness"
+  hobbies: "football"}
+
+  
 const carmen = {
     role: "teacher",
     profession: "programmer",
