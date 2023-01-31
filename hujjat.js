@@ -5,3 +5,4 @@ const hujjat = {
     hobbies: ["sports", "hiking"],
     sisters: 3,
     brothers: 2
+}
