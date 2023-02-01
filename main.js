@@ -47,3 +47,27 @@ let mikhail = {
   role: "student"
 }
 
+const andres = {
+  role: "<accounting >",
+  profession: "accounting",
+  interests: "web developer",
+  hobbies: ["soprts", "travel", "eat"],
+  sisters: "1",
+  brothers: "1"
+}
+
+const Carl = {
+  role: "Student",
+  profession: "IT",
+  interests: "FULL STACK DEV",
+  hobbies: ["FOREX TRADING", "Basket", "Real estate", "travelling"],
+  sisters: 1,
+  brothers: 3
+}
+
+const jasmin = {
+  role: "student",
+  profession: "psychology",
+  interests: "wellness, art, history",
+  brother: 1,
+}
