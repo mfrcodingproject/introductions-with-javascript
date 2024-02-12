@@ -1,4 +1,4 @@
-console.log("heyyy");
+console.log("");
 
 const teresa = {
   role: "teacher",
